@@ -10,4 +10,4 @@ COPY target /target
 
 RUN ./mvnw install package
 
-ENTRYPOINT [ "java", "-jar", "/target/user_management_eureka-0.0.1-SNAPSHOT-SNAPSHOT.jar" ]
+ENTRYPOINT [ "java", "-jar", "./target/user_management_eureka-0.0.1-SNAPSHOT.jar" ]

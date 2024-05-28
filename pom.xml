@@ -11,7 +11,7 @@
 	<groupId>dev.guiga.user_management.eureka</groupId>
 	<artifactId>user_management_eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>user_management_eureka</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
